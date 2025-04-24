@@ -8,9 +8,10 @@ This is my professional online presence for job/internship search.
 ## 👤 Username / Identity
 
 **GitHub Username**: [D6-prebuxofa](https://github.com/D6-prebuxofa)  
-**Personal Brand Name**: [Your Name or Handle]  
+**Personal Brand Name**: [Arun Kumar Kurakula]  
 **Brand Colors**: Blue and White  
-**Profile Image**: Same used across GitHub and Portfolio  
+**Profile Image**: ![images](https://github.com/user-attachments/assets/d4890924-b1e7-4787-8587-089bcd5ef3e2)
+
 
 ---
 
