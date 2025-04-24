@@ -27,24 +27,5 @@ Here are the online platforms I will maintain:
 
 ---
 
-## 🎨 Branding Assets
 
-I designed a consistent style using:
-
-- Simple color palette (blue/white)
-- Same profile image across platforms
-- Folder of branding files (see below)
-
-📁 `branding-assets/` — includes profile/banner images
-
----
-
-## 🛠️ To-Do List
-
-- [x] Set consistent GitHub name + profile
-- [x] Create portfolio on GitHub Pages
-- [x] Use same image on all platforms
-- [ ] Add LinkedIn and YouTube later
-
----
 
